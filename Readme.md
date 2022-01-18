@@ -1,4 +1,4 @@
-#Prerequisites
+# Prerequisites
 You must install mongodb locally using Docker
 
 ```
@@ -16,8 +16,8 @@ $ npm install nodemon dotenv -D
 $ npm install @types/concurrently @types/mongoose @types/morgan @types/bcrypt @types/typescript @types/express -D
 ```
 
-## Usage
-## - Once you have installed all the Node/Tyscript modules to iniciate the program run the following script
+# Usage
+Once you have installed all the Node/Tyscript modules to iniciate the program run the following script
 ```
 npm run dev
 ```
