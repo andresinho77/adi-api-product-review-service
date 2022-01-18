@@ -30,3 +30,15 @@ This software was build with:
   v8: '8.4.371.19-node.18',
 }
 ```
+# To Run this API
+You must consider the following with Insomnia Project attached:
+1. Create a user:
+```
+POST: localhost:4001/api/auth/signup
+```
+Response will be an JWT and the JWT must be used to call CRUD APIs
+
+
+
+
+
