@@ -1,7 +1,7 @@
 import  mongoose from "mongoose";
 
 
-mongoose.connect('mongodb://database/adidas',{
+mongoose.connect('mongodb://127.0.0.1/adidas',{
 })
 .then(db=> console.log('Database is connected',db.connection.host))
 .catch(err=> console.log(err));
