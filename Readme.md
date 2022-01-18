@@ -1,9 +1,8 @@
 #Prerequisites
+You must install mongodb locally using Docker
 
 ```
-You must install mongodb locally
-$ docker run --name some-mongo -d mongo:tag
-
+docker pull mongo
 ```
 
 
@@ -19,8 +18,9 @@ $ npm install @types/concurrently @types/mongoose @types/morgan @types/bcrypt @t
 
 ## Usage
 ## - Once you have installed all the Node/Tyscript modules to iniciate the program run the following script
+```
 npm run dev
-
+```
 # Build
 # This software was build with: 
 
