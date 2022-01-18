@@ -22,7 +22,7 @@ Once you have installed all the Node/Tyscript modules to iniciate the program ru
 npm run dev
 ```
 # Build
-# This software was build with: 
+This software was build with: 
 
 'adidas-api-product-service': '1.0.0',
   npm: '8.3.0',
