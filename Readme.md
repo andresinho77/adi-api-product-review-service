@@ -1,3 +1,12 @@
+#Prerequisites
+
+```
+You must install mongodb locally
+$ docker run --name some-mongo -d mongo:tag
+
+```
+
+
 # You must to install the following modules before start
 
 ```
