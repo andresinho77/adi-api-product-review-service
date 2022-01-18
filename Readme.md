@@ -23,9 +23,10 @@ npm run dev
 ```
 # Build
 This software was build with: 
-
+```
 'adidas-api-product-service': '1.0.0',
   npm: '8.3.0',
   node: '14.16.1',
   v8: '8.4.371.19-node.18',
 }
+```
