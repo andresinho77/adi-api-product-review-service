@@ -36,7 +36,7 @@ You must consider the following with Insomnia Project attached:
 ```
 POST: localhost:4001/api/auth/signup
 ```
-Response will be an JWT and the JWT must be used to call CRUD APIs
+Response will be a JWT and the JWT must be used to call CRUD APIs
 
 
 
